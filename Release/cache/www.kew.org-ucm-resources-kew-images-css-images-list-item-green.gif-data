@@ -1,0 +1,26 @@
+HTTP/1.1 404 Not Found
+Server: nginx
+Date: Wed, 12 Jun 2019 12:27:52 GMT
+Content-Type: text/html; charset=iso-8859-1
+X-Content-Type-Options: nosniff
+X-Request-ID: v-7f7bc690-8d0d-11e9-a1d1-c76f0a8235e0
+X-AH-Environment: prod
+Cache-Control: max-age=900, public
+Age: 922
+Via: varnish
+X-Cache: HIT
+X-Cache-Hits: 6
+Content-Length: 453
+Connection: keep-alive
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /ucm/resources/kew/images/css-images/list-item-green.gif was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+<hr>
+<address>Apache/2.2.3 (Red Hat) Server at static1.kew.org Port 80</address>
+</body></html>

@@ -1,0 +1,23 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 06 Jun 2019 20:50:53 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 239
+X-Content-Type-Options: nosniff
+Location: https://www.kew.org/favicon.ico
+Cache-Control: max-age=1209600
+Expires: Thu, 20 Jun 2019 20:50:53 GMT
+X-Request-ID: v-c63532da-889c-11e9-8991-ef222ab0007d
+Age: 489147
+Via: varnish
+X-Cache: HIT
+X-Cache-Hits: 2158
+Connection: keep-alive
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.kew.org/favicon.ico">here</a>.</p>
+</body></html>

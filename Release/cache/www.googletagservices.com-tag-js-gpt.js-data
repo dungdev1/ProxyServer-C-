@@ -1,0 +1,10 @@
+HTTP/1.1 304 Not Modified
+Content-Type: text/javascript
+Date: Wed, 12 Jun 2019 12:39:43 GMT
+Expires: Wed, 12 Jun 2019 12:39:43 GMT
+Cache-Control: private, max-age=900, stale-while-revalidate=3600
+ETag: "194 / 153 of 1000 / last-modified: 1560303926"
+X-Content-Type-Options: nosniff
+Server: sffe
+X-XSS-Protection: 0
+
